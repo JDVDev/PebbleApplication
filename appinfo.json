@@ -1,0 +1,34 @@
+{
+  "appKeys": {},
+  "capabilities": [
+    ""
+  ],
+  "companyName": "owenhoogenboezem@gmail.com",
+  "longName": "pilot",
+  "projectType": "native",
+  "resources": {
+    "media": [
+      {
+        "file": "images/yes.png",
+        "name": "IMAGE_ACTION_YES",
+        "type": "png"
+      },
+      {
+        "file": "images/no.png",
+        "name": "IMAGE_ACTION_NO",
+        "type": "png"
+      }
+    ]
+  },
+  "sdkVersion": "3",
+  "shortName": "pilot",
+  "uuid": "2A8A4EF9-99C4-47FD-8DBF-428C89DE6F6E",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "targetPlatforms": [
+    "aplite"
+  ]
+}
